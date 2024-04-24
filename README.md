@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu-222
 - 👀 I’m interested in new things
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about my hidden skills 
 - 💞️ I’m looking to collaborate with great people
 - 📫 How to reach me ... social media
 - 😄 Pronouns: ...
