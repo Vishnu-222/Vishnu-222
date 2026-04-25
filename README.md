@@ -11,6 +11,7 @@ I have strong confidence in building dynamic, component-based applications using
 
 🤝 I enjoy collaborating with growth-oriented people, sharing knowledge, and continuously learning new technologies.
 
+📫 Reach me at: vs414447@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vishnu__0909) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its_vishnuuuu__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-singh-435116237) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vs414447@gmail.com) 
